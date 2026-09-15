@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+@theme {
+    --spacing: 4px;
+
+    --color-*: initial;
+    --color-white: oklch(1.0 0.0 0);
+    --color-black: oklch(0.0 0.0 0);
+}
