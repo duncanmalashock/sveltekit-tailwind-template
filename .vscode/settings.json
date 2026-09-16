@@ -2,6 +2,7 @@
     "[svelte]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode",
         "editor.formatOnSave": true,
-        "tailwindCSS.colorDecorators": false
+        "tailwindCSS.colorDecorators": false,
+        "editor.autoIndent": "advanced"
     }
 }
